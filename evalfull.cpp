@@ -46,6 +46,8 @@ bool balanced(char *expression[], int numTokens) {
                 break;
             case NUMBER:
                 break;
+            default:
+                break;
         }
 
     }
